@@ -1,8 +1,5 @@
 package com.betplay.entitly;
 
-import java.util.Date;
-import java.util.List;
-
 
 public class Actividad {
     private int id;

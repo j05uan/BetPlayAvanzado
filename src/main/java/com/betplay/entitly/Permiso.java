@@ -1,7 +1,5 @@
 package com.betplay.entitly;
 
-import java.util.Date;
-
 public class Permiso {
     private int id;
     private String descripcion;

@@ -1,6 +1,5 @@
 package com.betplay.entitly;
 
-import java.util.List;
 
 public class Usuario {
     private int id;
@@ -8,8 +7,11 @@ public class Usuario {
     private String email;
     private String contraseña;
     private Rol rol;
+
     public Usuario() {
+
     }
+    
     public Usuario(int id, String nombre, String email, String contraseña, Rol rol) {
         this.id = id;
         this.nombre = nombre;
